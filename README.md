@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Antiya</h1>
-<h3 align="center">I am a paasionate Software Developer</h3>
+<h3 align="center">I am a passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bantiya&label=Profile%20views&color=0e75b6&style=flat" alt="bantiya" /> </p>
 
