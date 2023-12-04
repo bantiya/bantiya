@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bantiya&label=Profile%20views&color=0e75b6&style=flat" alt="bantiya" /> </p>
 
+- 🔭 I’m currently working on **Pygame Library**
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 💬 Ask me about **Flask, Django, ML, NLP**
+
 - 📫 How to reach me **bhavyaantiya@gmail.com**
+
+- ⚡ Fun fact **Love to watch period movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
