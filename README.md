@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bantiya&label=Profile%20views&color=0e75b6&style=flat" alt="bantiya" /> </p>
 
-- 🔭 I’m currently working on **Pygame Library**
+- 🔭 I’m currently working on **My Personal Website**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JavaScript, ReactJS**
 
 - 💬 Ask me about **Flask, Django, ML, NLP**
 
