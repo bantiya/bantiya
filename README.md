@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Personal Website**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+- 🌱 I’m currently mastering **Spring Boot**
 
 - 💬 Ask me about **Flask, Django, ML, NLP**
 
